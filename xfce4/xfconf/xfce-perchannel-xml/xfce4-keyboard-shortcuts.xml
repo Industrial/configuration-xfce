@@ -41,6 +41,11 @@
         <property name="startup-notify" type="bool" value="true"/>
       </property>
       <property name="override" type="bool" value="true"/>
+      <property name="&lt;Super&gt;space" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;h" type="string" value="/home/tom/Repositories/movescreen/movescreen.py -r left active"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;l" type="string" value="/home/tom/Repositories/movescreen/movescreen.py -r right active"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;k" type="string" value="/home/tom/Repositories/movescreen/movescreen.py -r up active"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;j" type="string" value="/home/tom/Repositories/movescreen/movescreen.py -r down active"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
