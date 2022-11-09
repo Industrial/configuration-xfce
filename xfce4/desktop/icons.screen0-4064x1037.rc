@@ -2,22 +2,22 @@
 4.10.3+=true
 
 [/home/tom/Desktop/New Folder]
-row=8
+row=4
 col=0
 
 [5AB6E455B6E43365]
-row=9
-col=0
-
-[Trash]
-row=10
-col=0
-
-[/]
 row=3
 col=0
 
+[Trash]
+row=2
+col=0
+
+[/]
+row=0
+col=0
+
 [/home/tom]
-row=4
+row=1
 col=0
 

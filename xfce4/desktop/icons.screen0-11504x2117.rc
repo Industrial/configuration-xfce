@@ -1,23 +1,27 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/tom/Desktop/index.jpg]
+row=2
+col=13
+
 [/home/tom/Desktop/New Folder]
-row=8
-col=0
+row=5
+col=42
 
 [5AB6E455B6E43365]
-row=9
+row=1
 col=0
 
 [Trash]
-row=10
+row=4
 col=0
 
 [/]
-row=3
+row=2
 col=0
 
 [/home/tom]
-row=4
+row=3
 col=0
 

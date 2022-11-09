@@ -2,27 +2,27 @@
 4.10.3+=true
 
 [/home/tom/Desktop/chrome-jgeocpdicgmkeemopbanhokmhcgcflmi-Default.desktop]
-row=6
-col=0
+row=1
+col=1
 
 [/home/tom/Desktop/New Folder]
-row=10
+row=1
 col=0
 
 [/home/tom/Desktop/NAW-vragenlijst English.docx]
-row=7
+row=2
 col=0
 
 [/home/tom/Desktop/SKM_C258 Ex21040215450.pdf]
-row=5
-col=0
+row=2
+col=1
 
 [5AB6E455B6E43365]
-row=9
-col=0
+row=0
+col=1
 
 [Trash]
-row=19
+row=0
 col=0
 
 [/]
@@ -30,6 +30,6 @@ row=3
 col=0
 
 [/home/tom]
-row=4
-col=0
+row=3
+col=1
 

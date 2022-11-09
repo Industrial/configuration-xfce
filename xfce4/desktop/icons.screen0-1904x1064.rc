@@ -6,7 +6,7 @@ row=6
 col=0
 
 [/home/tom/Desktop/New Folder]
-row=10
+row=8
 col=0
 
 [/home/tom/Desktop/NAW-vragenlijst English.docx]
@@ -21,8 +21,12 @@ col=0
 row=9
 col=0
 
+[SAMSUNG Android]
+row=2
+col=0
+
 [Trash]
-row=19
+row=0
 col=0
 
 [/]

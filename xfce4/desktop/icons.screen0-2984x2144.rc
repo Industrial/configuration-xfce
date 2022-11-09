@@ -1,12 +1,16 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/tom/Desktop/263285617_285377253528265_3434378944001806109_n.webp.jpg]
+row=11
+col=0
+
 [/home/tom/Desktop/chrome-jgeocpdicgmkeemopbanhokmhcgcflmi-Default.desktop]
 row=6
 col=0
 
 [/home/tom/Desktop/New Folder]
-row=10
+row=8
 col=0
 
 [/home/tom/Desktop/NAW-vragenlijst English.docx]
@@ -22,7 +26,7 @@ row=9
 col=0
 
 [Trash]
-row=19
+row=10
 col=0
 
 [/]
