@@ -8,7 +8,7 @@
       <property name="EDID" type="string" value="87db1e7919304641eb97f1979904ffbbd91cce41"/>
       <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60.000000"/>
-      <property name="Rotation" type="int" value="90"/>
+      <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
       <property name="Scale" type="empty">
@@ -16,15 +16,15 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="3000"/>
-        <property name="Y" type="int" value="240"/>
+        <property name="X" type="int" value="5760"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="HDMI-0" type="string" value="Stargate Technology 17&quot;">
+    <property name="HDMI-0" type="string" value="BenQ 28&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="b85f6beeac35ecc3b0c6d3a7444eab91019ac27b"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="true"/>
@@ -33,15 +33,15 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1080"/>
-        <property name="Y" type="int" value="1080"/>
+        <property name="X" type="int" value="3840"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="DP-2" type="string" value="DO NOT USE - AUO 17&quot;">
-      <property name="Active" type="bool" value="true"/>
+    <property name="DP-2" type="string" value="AU Optronics 17&quot;">
+      <property name="Active" type="bool" value="false"/>
       <property name="EDID" type="string" value="36fc621aca8fae1e7115ce9c5d8cfdd37ae21c48"/>
       <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="300.184518"/>
+      <property name="RefreshRate" type="double" value="60.054054"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -50,25 +50,25 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1080"/>
+        <property name="X" type="int" value="0"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="DP-3" type="string" value="Hewlett Packard 22&quot;">
+    <property name="DP-3" type="string" value="BenQ 28&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="be2fc88387548788467416cd61a4096fd58f0081"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
-      <property name="Rotation" type="int" value="90"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125"/>
+      <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
+      <property name="Primary" type="bool" value="true"/>
       <property name="Scale" type="empty">
         <property name="X" type="double" value="1.000000"/>
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="240"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
   </property>
@@ -78,7 +78,7 @@
       <property name="EDID" type="string" value="87db1e7919304641eb97f1979904ffbbd91cce41"/>
       <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60.000000"/>
-      <property name="Rotation" type="int" value="90"/>
+      <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
       <property name="Scale" type="empty">
@@ -86,15 +86,15 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="3000"/>
-        <property name="Y" type="int" value="240"/>
+        <property name="X" type="int" value="5760"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="HDMI-0" type="string" value="Stargate Technology 17&quot;">
+    <property name="HDMI-0" type="string" value="BenQ 28&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="b85f6beeac35ecc3b0c6d3a7444eab91019ac27b"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="true"/>
@@ -103,15 +103,15 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1080"/>
-        <property name="Y" type="int" value="1080"/>
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="DP-2" type="string" value="DO NOT USE - AUO 17&quot;">
-      <property name="Active" type="bool" value="true"/>
+    <property name="DP-2" type="string" value="AU Optronics 17&quot;">
+      <property name="Active" type="bool" value="false"/>
       <property name="EDID" type="string" value="36fc621aca8fae1e7115ce9c5d8cfdd37ae21c48"/>
       <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="300.184518"/>
+      <property name="RefreshRate" type="double" value="60.054054"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -120,25 +120,25 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1080"/>
+        <property name="X" type="int" value="0"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="DP-3" type="string" value="Hewlett Packard 22&quot;">
+    <property name="DP-3" type="string" value="BenQ 28&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="be2fc88387548788467416cd61a4096fd58f0081"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
-      <property name="Rotation" type="int" value="90"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125"/>
+      <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
+      <property name="Primary" type="bool" value="true"/>
       <property name="Scale" type="empty">
         <property name="X" type="double" value="1.000000"/>
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="240"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
   </property>
@@ -148,7 +148,7 @@
       <property name="EDID" type="string" value="87db1e7919304641eb97f1979904ffbbd91cce41"/>
       <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60.000000"/>
-      <property name="Rotation" type="int" value="90"/>
+      <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
       <property name="Scale" type="empty">
@@ -156,8 +156,8 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="240"/>
+        <property name="X" type="int" value="3840"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
     <property name="HDMI-0" type="string" value="Stargate Technology 17&quot;">
@@ -173,7 +173,7 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1080"/>
+        <property name="X" type="int" value="1920"/>
         <property name="Y" type="int" value="1080"/>
       </property>
     </property>
@@ -190,7 +190,7 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1080"/>
+        <property name="X" type="int" value="1920"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
@@ -199,7 +199,7 @@
       <property name="EDID" type="string" value="be2fc88387548788467416cd61a4096fd58f0081"/>
       <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60.000000"/>
-      <property name="Rotation" type="int" value="90"/>
+      <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
       <property name="Scale" type="empty">
@@ -207,8 +207,297 @@
         <property name="Y" type="double" value="1.000000"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="3000"/>
-        <property name="Y" type="int" value="240"/>
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+  <property name="b832c5af8969308ed219aa5eabd3cbc876b0ab03" type="string" value="Home3">
+    <property name="DP-0" type="string" value="Hewlett Packard 22&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="87db1e7919304641eb97f1979904ffbbd91cce41"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="3840"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-2" type="string" value="DO NOT USE - AUO 17&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="36fc621aca8fae1e7115ce9c5d8cfdd37ae21c48"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="300.184518"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="1920"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-3" type="string" value="Hewlett Packard 22&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="be2fc88387548788467416cd61a4096fd58f0081"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+  <property name="Notify" type="bool" value="true"/>
+  <property name="AutoEnableProfiles" type="bool" value="true"/>
+  <property name="IdentityPopups" type="bool" value="true"/>
+  <property name="f4e20b0cb8430fd3ce7d21886de2b91f18ed0d0d" type="string" value="Big">
+    <property name="DP-0" type="string" value="BenQ 28&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="683138bb6867ef9eac39912dea720f214320134e"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="59.996625"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="1920"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-2" type="string" value="DO NOT USE - AUO 17&quot;">
+      <property name="Active" type="bool" value="false"/>
+      <property name="EDID" type="string" value="36fc621aca8fae1e7115ce9c5d8cfdd37ae21c48"/>
+    </property>
+  </property>
+  <property name="b2a0779f7509efc038893791604cee0665513afb" type="string" value="Home 3 Monitors">
+    <property name="DP-0" type="string" value="Hewlett Packard 22&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="87db1e7919304641eb97f1979904ffbbd91cce41"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="5760"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="HDMI-0" type="string" value="BenQ 28&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="1920"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-2" type="string" value="AU Optronics 17&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="36fc621aca8fae1e7115ce9c5d8cfdd37ae21c48"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.054054"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-3" type="string" value="BenQ 28&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="1920"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+  <property name="294d09084327de60df62798da05256f26ddaeacb" type="string" value="Home 4 4k">
+    <property name="DP-0" type="string" value="Hewlett Packard 22&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="87db1e7919304641eb97f1979904ffbbd91cce41"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="7680"/>
+        <property name="Y" type="int" value="1110"/>
+      </property>
+    </property>
+    <property name="HDMI-0" type="string" value="BenQ 28&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="3840"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-2" type="string" value="AU Optronics 17&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="36fc621aca8fae1e7115ce9c5d8cfdd37ae21c48"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.054054"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="30"/>
+      </property>
+    </property>
+    <property name="DP-3" type="string" value="Hewlett Packard 22&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="ca5e59958a0449f060b403456036f304c2abf2c8"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="1920"/>
+        <property name="Y" type="int" value="30"/>
+      </property>
+    </property>
+  </property>
+  <property name="174a3b480a227959daec479b88966037adf7fe75" type="string" value="Home 4 monitor">
+    <property name="DP-0" type="string" value="Hewlett Packard 22&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="87db1e7919304641eb97f1979904ffbbd91cce41"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="7680"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="HDMI-0" type="string" value="BenQ 28&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="3840"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-2" type="string" value="AU Optronics 17&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="36fc621aca8fae1e7115ce9c5d8cfdd37ae21c48"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.054054"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-3" type="string" value="Hewlett Packard 22&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="be2fc88387548788467416cd61a4096fd58f0081"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="1920"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
   </property>
