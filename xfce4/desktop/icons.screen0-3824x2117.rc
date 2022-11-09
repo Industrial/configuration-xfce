@@ -1,19 +1,15 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[5AB6E455B6E43365]
-row=0
-col=1
-
 [Trash]
-row=0
+row=2
 col=0
 
 [/]
-row=3
+row=0
 col=0
 
 [/home/tom]
-row=4
+row=1
 col=0
 
