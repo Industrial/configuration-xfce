@@ -1,5 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="displays" version="1.0">
-  <property name="ActiveProfile" type="string" value="Default"/>
+  <property name="ActiveProfile" type="string" value="70f8bb9a8a5393ef080507a89e4b98d139000d65"/>
+  <property name="Default" type="empty">
+    <property name="HDMI-A-0" type="string" value="BenQ 28&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125112511254"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1"/>
+        <property name="Y" type="double" value="1"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DisplayPort-1" type="string" value="Stargate Technology 17&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="db282aa0245a295af593e6633b81f88d0233fe7e"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1"/>
+        <property name="Y" type="double" value="1"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="3840"/>
+        <property name="Y" type="int" value="1080"/>
+      </property>
+    </property>
+  </property>
+  <property name="Fallback" type="empty">
+    <property name="HDMI-A-0" type="string" value="BenQ 28&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="800x600"/>
+      <property name="RefreshRate" type="double" value="75"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1"/>
+        <property name="Y" type="double" value="1"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DisplayPort-1" type="string" value="Stargate Technology 17&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="db282aa0245a295af593e6633b81f88d0233fe7e"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1"/>
+        <property name="Y" type="double" value="1"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="800"/>
+        <property name="Y" type="int" value="600"/>
+      </property>
+    </property>
+  </property>
+  <property name="Notify" type="int" value="3"/>
+  <property name="70f8bb9a8a5393ef080507a89e4b98d139000d65" type="string" value="Home">
+    <property name="DisplayPort-1" type="string" value="Stargate Technology 17&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="db282aa0245a295af593e6633b81f88d0233fe7e"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1"/>
+        <property name="Y" type="double" value="1"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="3840"/>
+        <property name="Y" type="int" value="1080"/>
+      </property>
+    </property>
+    <property name="HDMI-A-0" type="string" value="BenQ 28&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="b85409143716e097092be8a0c5fc1ebc850c5cdf"/>
+      <property name="Resolution" type="string" value="3840x2160"/>
+      <property name="RefreshRate" type="double" value="60.001125112511254"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1"/>
+        <property name="Y" type="double" value="1"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+  <property name="AutoEnableProfiles" type="bool" value="true"/>
+  <property name="IdentityPopups" type="bool" value="true"/>
 </channel>
